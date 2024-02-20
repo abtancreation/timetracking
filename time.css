@@ -1,0 +1,81 @@
+body{
+    background: hsl(226, 43%, 10%);
+}
+
+.all{
+    color: #fff;
+    margin-left: 70px;
+    margin-top: 70px;
+}
+
+.time{
+    width: 130px;
+    height: 250px;
+    border-radius: 5px;
+    background: hsl(235, 46%, 20%);
+}
+
+.jeremy{
+    background: hsl(246, 80%, 60%);
+    border-radius: 5px;
+    height: 160px;
+    padding-left: 15px;
+}
+
+.img{
+    width: 45px;
+    height: 45px;
+    border-radius: 100%;
+    border: #fff 2px solid;
+    margin-left: 5px;
+    background: url(image-jeremy.png) no-repeat;
+    background-size: cover
+}
+
+.report{
+    font-size: xx-small;
+    margin-top: 30px;
+}
+
+.jere{
+    font-size: 20px;
+    margin-top: -20px;
+
+}
+
+.daily{
+    font-size: x-small;
+    padding-left: 15px;
+    color: #a59f9f;
+    margin-top: 15px;
+}
+
+.daily:hover{
+    color: #fff;
+    cursor: pointer;
+}
+
+.other1{
+    width: 130px;
+    height: 250px;
+    border-radius: 5px;
+    background: hsl(235, 46%, 20%);
+    margin-top: -266px;
+    margin-left: 220px;
+}
+
+.work{
+    background: url(icon-work.svg) no-repeat,hsl(15, 100%, 70%);
+    background-position: 80px -5px;
+    background-size: 40px;
+    border-radius: 5px;
+    height: 115px;
+}
+
+.work1{
+    background: url(icon-exercise.svg) no-repeat, hsl(235, 46%, 20%);
+    background-position: ;
+    border-radius: 5px;
+    height: 90px;
+
+}   
